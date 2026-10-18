@@ -1,0 +1,22 @@
+{
+  "name": "tizenbrew-movy",
+  "version": "1.0.0",
+  "description": "Movy.sx TizenBrew site-mod with ad blocker and D-pad navigation",
+  "main": "main.js",
+  "author": "1udor",
+  "license": "MIT",
+  "tizenbrew": {
+    "packageType": "mods",
+    "appName": "Movy",
+    "websiteURL": "https://www.movy.sx/",
+    "main": "main.js",
+    "keys": [
+      "MediaPlayPause",
+      "MediaPlay",
+      "MediaPause",
+      "MediaStop",
+      "MediaRewind",
+      "MediaFastForward"
+    ]
+  }
+}
