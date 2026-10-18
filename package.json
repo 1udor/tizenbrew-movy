@@ -5,18 +5,15 @@
   "main": "main.js",
   "author": "1udor",
   "license": "MIT",
-  "tizenbrew": {
-    "packageType": "mods",
-    "appName": "Movy",
-    "websiteURL": "https://www.movy.sx/",
-    "main": "main.js",
-    "keys": [
-      "MediaPlayPause",
-      "MediaPlay",
-      "MediaPause",
-      "MediaStop",
-      "MediaRewind",
-      "MediaFastForward"
-    ]
-  }
+  "packageType": "mods",
+  "appName": "Movy",
+  "websiteURL": "https://www.movy.sx/",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaRewind",
+    "MediaFastForward"
+  ]
 }
